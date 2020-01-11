@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+  font-family: Arial;
+}
+.btnContainer button{
+  margin-top: 20px;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#button1 {
+  display: none;
+}
+#button2 {
+  display: none;
+}
+#button3 {
+  display: none;
+}
+#textBox {
+  width: 700px;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 12px;
+  background-color: #222;
+  color: #eee;
+}
+#vid {
+  display: none;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  height: 500px;
+}
